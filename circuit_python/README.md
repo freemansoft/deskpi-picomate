@@ -1,5 +1,14 @@
 # CircuitPython code for the DeskPi PicoMate
 
+The simplest way to run any of these demos is to copy them to the Pico under the name main.py.  CircuitPython will immediately run any file called main.py whenever it is updated.
+
+## Prerequeisites
+
+1. A PicoMate
+2. A Pico RP2040 or RP2040W running CircuitPython
+3. The Adafruit provided library assicated with the version of CircuitPython
+4. A terminal window that can connnect to a serial port to see the log output
+
 ## i2C
 
 This setup uses two I2C buses.
